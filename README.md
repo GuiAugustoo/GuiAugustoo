@@ -1,4 +1,6 @@
-### Hello! Welcome :P
-
----
-My Name is Guilherme Cruz <img src="images/Hi.gif" width="16"></img>
+## Olá! Eu sou o Guilherme Cruz
+ <div>
+  <a href="https://github.com/GuiAugustoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiAugustoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAugustoo&layout=compact&langs_count=16&theme=dracula"/>
+<div>
